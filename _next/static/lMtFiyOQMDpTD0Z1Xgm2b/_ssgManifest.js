@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcampaign\u002F[id]","\u002Finsights\u002Fnetwork\u002F[id]","\u002Fpeople\u002F[id]","\u002Fpeople\u002F[id]\u002Factivities","\u002Fpeople\u002F[id]\u002Fedit","\u002Fupload\u002F[id]\u002Fmapping","\u002Fupload\u002F[id]\u002Fpreview","\u002Fupload\u002F[id]\u002Fresult"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
